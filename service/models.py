@@ -19,4 +19,3 @@ class Bin(models.Model):
 
     def __str__(self):
         return self.title
-2
